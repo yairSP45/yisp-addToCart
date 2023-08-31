@@ -1,0 +1,80 @@
+[
+    {
+        "price": 299,
+        "id": 1,
+        "title": "Coca Cola",
+        "urlImage": "https://picsum.photos/id/0/600"
+    },
+    {
+        "price": 199,
+        "id": 2,
+        "title": "Refrigerador",
+        "urlImage": "https://picsum.photos/id/1/600"
+    },
+    {
+        "price": 3999,
+        "id": 3,
+        "title": "Microcondas",
+        "urlImage": "https://picsum.photos/id/2/600"
+    },
+    {
+        "price": 38,
+        "id": 4,
+        "title": "Doritos",
+        "urlImage": "https://picsum.photos/id/3/600"
+    },
+    {
+        "price": 41,
+        "id": 5,
+        "title": "Chips Fuego",
+        "urlImage": "https://picsum.photos/id/4/600"
+    },
+    {
+        "price": 310,
+        "id": 6,
+        "title": "Centenario",
+        "urlImage": "https://picsum.photos/id/5/600"
+    },
+    {
+        "price": 540,
+        "id": 7,
+        "title": "Audifonos",
+        "urlImage": "https://picsum.photos/id/6/600"
+    },
+    {
+        "price": 5400,
+        "id": 8,
+        "title": "X-Box",
+        "urlImage": "https://picsum.photos/id/7/600"
+    },
+    {
+        "price": 3000,
+        "id": 9,
+        "title": "Ventilador",
+        "urlImage": "https://picsum.photos/id/8/600"
+    },
+    {
+        "price": 5200,
+        "id": 10,
+        "title": "Estufa",
+        "urlImage": "https://picsum.photos/id/9/600"
+    },
+    {
+        "price": 7300,
+        "id": 11,
+        "title": "Telefono",
+        "urlImage": "https://picsum.photos/id/10/600"
+    },
+    {
+        "price": 6999,
+        "id": 12,
+        "title": "Bicicleta",
+        "urlImage": "https://picsum.photos/id/11/600"
+    },
+    {
+        "price": 12999,
+        "id": 13,
+        "title": "Laptop",
+        "urlImage": "https://picsum.photos/id/12/600"
+    }
+]
