@@ -10,7 +10,7 @@
     <title>Add To Cart 🛒</title>
 </head>
 <body>
-    <div class="cointaner">
+    <div class="cointaner" style="max-width: 95vw!important;">
         <div class="row" style="height: 20vh;">
             <!--datos del alumno (Nombre , carrera , escuela, NUA)-->
         </div>
@@ -58,6 +58,39 @@
             </div>
         </div>
     </div>
+   </template>
+
+   <template id="template-footer">
+        <th colspan="2" scope="row">
+            Total Productos
+        </th>
+        <td>10</td>
+        <td>
+            <button  style="width: 100%;"id="vaciar-carrito" class="btn btn-danger btn-sm">
+                Vaciar Carrito
+            </button>
+        </td>
+        <td class="font-weight-bold"> <span>500</span></td>
+   </template>
+
+   <!-- Template para el item comprado -->
+   <template id="template-carrito">
+        <tr>
+            <th scope="row">id</th>
+            <td>Cafe</td>
+            <td>1</td>
+            <td>
+                <button class="btn btn-warning btn-sm">
+                    +
+                </button>
+                <button class="btn btn-danger btn-sm">
+                    -
+                </button>
+            </td>
+            <td>
+                $<span>500</span>
+            </td>
+        </tr>
    </template>
 
     <script src="./js/app.js"></script>
